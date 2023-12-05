@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400781427180",
+    "project_id": "remoteconfigtrial-f912f",
+    "storage_bucket": "remoteconfigtrial-f912f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400781427180:android:704507894a7ac5b23040c9",
+        "android_client_info": {
+          "package_name": "com.example.firebase_remote_config_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqvgU7SKuf-5XAVXPXpUzIOJ534p7P9DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
