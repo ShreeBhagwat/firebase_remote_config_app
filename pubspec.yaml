@@ -38,6 +38,7 @@ dependencies:
   firebase_core: ^2.24.0
   firebase_remote_config: ^4.3.6
   firebase_analytics: ^10.7.2
+  firebase_messaging: ^14.7.9
   
 
 dev_dependencies:
